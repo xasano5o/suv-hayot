@@ -6,7 +6,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.App{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
