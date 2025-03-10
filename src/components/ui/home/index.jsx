@@ -73,7 +73,7 @@ const waterTypes = [
 const Home = () => {
   const navigate = useNavigate();
   return (
-    <div className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden bg-water-pattern bg-cover bg-center px-6 py-12  mx-auto">
+    <div className=" min-h-screen flex flex-col items-center justify-center overflow-hidden bg-water-pattern bg-cover bg-center px-6 py-12  mx-auto">
       <h1 className="text-4xl font-bold text-white text-center mb-6 drop-shadow-lg">
         Suvlarni Tanlang
       </h1>

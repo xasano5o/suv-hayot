@@ -1,0 +1,16 @@
+.water-grid {
+  display: grid;
+  grid-template-columns: 500px 500px;
+  gap: 20px;
+  align-items: center;
+}
+.water-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.water-grid > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

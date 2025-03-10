@@ -1,6 +1,6 @@
 /* home.css */
 .bg-water-pattern {
-    background-image: url("https://media.istockphoto.com/id/118337676/photo/water-surface-in-vibrant-blue.jpg?s=612x612&w=0&k=20&c=Q_-XmGnCgK4utVjh8ROlieUhtzVloI2w8KBDs0Ac7C8=");
+    background-image: url('../../../assets//img/bg-img.jpg');
     background-size: cover;
     background-position: center;
     animation: waterFlow 10s infinite linear alternate;
