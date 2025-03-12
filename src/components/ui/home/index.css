@@ -1,6 +1,8 @@
 /* home.css */
 .bg-water-pattern {
+  /* background-image: url('https://cdn.vectorstock.com/i/500p/43/18/water-splash-vector-1294318.jpg'); */
   background-image: url('https://media.istockphoto.com/id/486846754/vector/blue-water-splash.jpg?s=612x612&w=0&k=20&c=nDg3Lld8bj_GP8u7f76IWNSyRj-NkRn1O1kSfKuUQeM='); 
+
   background-size: cover;
   background-position: center;
   animation: waterFlow 15s infinite linear alternate;
