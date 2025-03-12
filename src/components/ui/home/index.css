@@ -5,7 +5,7 @@
 
   background-size: cover;
   background-position: center;
-  animation: waterFlow 15s infinite linear alternate;
+  animation: waterFlow 10s infinite linear alternate;
 }
 
 @keyframes waterFlow {
